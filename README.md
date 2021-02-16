@@ -159,7 +159,7 @@ Parameters details are based on the following information.
   
 •	For the aggregation field, please use one of the following values:
 	
-        1: 15 minutes
+       1: 15 minutes
   
 	2: Hourly
   
